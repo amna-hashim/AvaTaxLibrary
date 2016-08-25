@@ -1,0 +1,14 @@
+C:\Projects\FreeRouter\DGSAvaTaxLibrary\obj\Debug\DGSAvaTaxLibrary.csprojResolveAssemblyReference.cache
+C:\Projects\FreeRouter\DGSAvaTaxLibrary\bin\Debug\DGSAvaTaxLibrary.dll.config
+C:\Projects\FreeRouter\DGSAvaTaxLibrary\bin\Debug\DGSAvaTaxLibrary.dll
+C:\Projects\FreeRouter\DGSAvaTaxLibrary\bin\Debug\DGSAvaTaxLibrary.pdb
+C:\Projects\FreeRouter\DGSAvaTaxLibrary\bin\Debug\Avalara.AvaTax.Adapter.dll
+C:\Projects\FreeRouter\DGSAvaTaxLibrary\obj\Debug\DGSAvaTaxLibrary.dll
+C:\Projects\FreeRouter\DGSAvaTaxLibrary\obj\Debug\DGSAvaTaxLibrary.pdb
+C:\Projects\DGSAvaTaxLibrary\bin\Debug\DGSAvaTaxLibrary.dll.config
+C:\Projects\DGSAvaTaxLibrary\bin\Debug\DGSAvaTaxLibrary.dll
+C:\Projects\DGSAvaTaxLibrary\bin\Debug\DGSAvaTaxLibrary.pdb
+C:\Projects\DGSAvaTaxLibrary\bin\Debug\Avalara.AvaTax.Adapter.dll
+C:\Projects\DGSAvaTaxLibrary\obj\Debug\DGSAvaTaxLibrary.csprojResolveAssemblyReference.cache
+C:\Projects\DGSAvaTaxLibrary\obj\Debug\DGSAvaTaxLibrary.dll
+C:\Projects\DGSAvaTaxLibrary\obj\Debug\DGSAvaTaxLibrary.pdb

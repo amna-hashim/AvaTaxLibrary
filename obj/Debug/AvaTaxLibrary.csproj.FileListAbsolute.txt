@@ -1,0 +1,7 @@
+A:\Amna Data\Projects-Data\MVC(P)\AvaTaxLibrary\bin\Debug\AvaTaxLibrary.dll.config
+A:\Amna Data\Projects-Data\MVC(P)\AvaTaxLibrary\bin\Debug\AvaTaxLibrary.dll
+A:\Amna Data\Projects-Data\MVC(P)\AvaTaxLibrary\bin\Debug\AvaTaxLibrary.pdb
+A:\Amna Data\Projects-Data\MVC(P)\AvaTaxLibrary\bin\Debug\Avalara.AvaTax.Adapter.dll
+A:\Amna Data\Projects-Data\MVC(P)\AvaTaxLibrary\obj\Debug\AvaTaxLibrary.csprojResolveAssemblyReference.cache
+A:\Amna Data\Projects-Data\MVC(P)\AvaTaxLibrary\obj\Debug\AvaTaxLibrary.dll
+A:\Amna Data\Projects-Data\MVC(P)\AvaTaxLibrary\obj\Debug\AvaTaxLibrary.pdb

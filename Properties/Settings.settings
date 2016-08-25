@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AvaTaxLibrary.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ServiceUrl" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://avatax.avalara.net</Value>
+    </Setting>
+    <Setting Name="UserName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">userName</Value>
+    </Setting>
+    <Setting Name="Password" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">userPassword</Value>
+    </Setting>
+    <Setting Name="Client" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">companyName</Value>
+    </Setting>
+    <Setting Name="CompanyCode" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">companyCode</Value>
+    </Setting>
+    <Setting Name="CompanyAddressLine1" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">CompanyAddressLine1</Value>
+    </Setting>
+    <Setting Name="CompanyCity" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">CompanyCity</Value>
+    </Setting>
+    <Setting Name="CompanyState" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">CompanyState</Value>
+    </Setting>
+    <Setting Name="CompanyPostalCode" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">CompanyPostalCode</Value>
+    </Setting>
+    <Setting Name="CompanyCountry" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">US</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
