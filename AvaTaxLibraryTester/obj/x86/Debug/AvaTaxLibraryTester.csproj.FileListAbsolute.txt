@@ -1,8 +1,0 @@
-A:\Amna Data\Projects-Data\MVC(P)\AvaTaxLibraryTester\bin\Debug\AvaTaxLibraryTester.exe.config
-A:\Amna Data\Projects-Data\MVC(P)\AvaTaxLibraryTester\bin\Debug\AvaTaxLibraryTester.exe
-A:\Amna Data\Projects-Data\MVC(P)\AvaTaxLibraryTester\bin\Debug\AvaTaxLibraryTester.pdb
-A:\Amna Data\Projects-Data\MVC(P)\AvaTaxLibraryTester\bin\Debug\Avalara.AvaTax.Adapter.dll
-A:\Amna Data\Projects-Data\MVC(P)\AvaTaxLibraryTester\bin\Debug\DGSAvaTaxLibrary.dll
-A:\Amna Data\Projects-Data\MVC(P)\AvaTaxLibraryTester\obj\x86\Debug\AvaTaxLibraryTester.csprojResolveAssemblyReference.cache
-A:\Amna Data\Projects-Data\MVC(P)\AvaTaxLibraryTester\obj\x86\Debug\AvaTaxLibraryTester.exe
-A:\Amna Data\Projects-Data\MVC(P)\AvaTaxLibraryTester\obj\x86\Debug\AvaTaxLibraryTester.pdb
